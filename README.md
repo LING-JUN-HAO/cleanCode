@@ -4,6 +4,6 @@
 
 【 實做頁面連結 】
 
-- [註冊頁面連結](http://127.0.0.1:5500/register/signUp.html)
-- [登入頁面連結](http://127.0.0.1:5500/login/signIn.html)
-- [todo 頁面連結](http://127.0.0.1:5500/todo/todo.html)
+- [註冊頁面連結](https://ling-jun-hao.github.io/cleanCode/register/signUp.html)
+- [登入頁面連結](https://ling-jun-hao.github.io/cleanCode/login/signIn.html)
+- [todo 頁面連結](https://ling-jun-hao.github.io/cleanCode/todo/todo.html)
